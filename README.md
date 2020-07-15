@@ -114,4 +114,4 @@ loaded via a namespace (and not attached):
 Please modify the download count data from Gene Expression Omnibus and change the path in jupyter notebook, then run the code within R
 
 #### Reproducibility
-The expected output is descripted in our article method section, and the labels and colors could be further modified by Adobe Illustrator
+The expected output was descripted in our article method section, and the output figure labels and colors could be further modified by Adobe Illustrator
